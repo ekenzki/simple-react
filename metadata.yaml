@@ -9,3 +9,6 @@ tags:
   - misc
 subordinate: false
 series: ['xenial']
+requires:
+  db:
+    interface: mysql
