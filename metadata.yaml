@@ -12,3 +12,6 @@ series: ['xenial']
 requires:
   db:
     interface: mysql
+provides:
+  frontend:
+    interface: scania-train
